@@ -1,79 +1,158 @@
-<h1 align="center">Hi 👋, I'm Taskeen Abbas</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | UI/UX Designer | React Native & AI Developer
-</h3>
+# 👋 Hey, I'm Taskeen Abbas
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer;React+Native+Developer;UI%2FUX+Designer;AI+%26+FastAPI+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+### 🎨 UI/UX Designer • 💻 Software Engineer • 🤖 AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Designing+Clean+%26+Modern+Interfaces;Turning+Ideas+Into+Digital+Experiences;UI%2FUX+Designer+%7C+Figma+Enthusiast;Building+%26+Learning+Every+Day" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TaskeenAbbas47&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ✦ DESIGN • CREATE • INNOVATE ✦
+
+</div>
+
+### 🎨 About Me
+
+I'm a **Software Engineer with a strong focus on UI/UX Design**.
+
+I enjoy transforming ideas into **clean, modern and user-friendly digital experiences** using **Figma, UI/UX principles and modern frontend technologies**.
+
+> 💡 My goal is simple — **make technology look as good as it works.**
+
+- 🎨 UI/UX Design & Prototyping
+- 🖌️ Figma enthusiast
+- 📱 Mobile & Web Interface Design
+- 🧩 Design Systems & Components
+- 💻 Frontend Development
+- 🤖 AI-powered applications
+- 🚀 Always learning & experimenting
+
+---
+
+<div align="center">
+
+## 🎯 MY MAIN FOCUS
+
+| 🎨 UI/UX | 🧠 DESIGN | 💻 DEVELOPMENT |
+|:---:|:---:|:---:|
+| User Interfaces | Design Thinking | React Native |
+| User Experience | Prototyping | JavaScript |
+| Wireframes | Design Systems | Python |
+| Responsive Design | Visual Design | FastAPI |
+
+</div>
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Figma • Wireframing • Prototyping • UI Design • UX Research • Design Systems**
+
+### 💻 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,python,fastapi,nodejs" />
+</p>
+
+### ☁️ Backend & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,git,github" />
 </p>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 Software Engineering graduate
-- 💻 Interested in **React Native, AI & Backend Development**
-- 🎨 I enjoy creating **UI/UX designs using Figma**
-- 🤖 Working with **AI, RAG and FastAPI**
-- 📱 Building cross-platform mobile applications
-- 🌱 Always learning new technologies
-- 🤝 Open to collaboration and new opportunities
+# 🚀 Featured Projects
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,python,fastapi,firebase,figma,git,github,nodejs" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
+</div>
 
 ### 🤖 CodeXpert
-AI-powered mobile learning platform with:
 
-- Interactive coding lessons
-- XpertAI coding assistant
-- RAG-based learning support
-- Code evaluation
-- XP & leaderboard system
-- Firebase integration
+**AI-Powered Multi-Language Coding Learning App**
+
+A gamified mobile learning platform designed to help beginners learn programming through interactive lessons, quizzes and an AI-powered coding assistant.
+
+**Tech:** React Native • FastAPI • Firebase • OpenAI • RAG
+
+---
 
 ### 💬 Chatternest AI
-AI-powered conversational application designed for intelligent and interactive user experiences.
 
-### 🌐 Animated Portfolio
-Modern animated portfolio website built with React and modern UI/UX techniques.
+**AI-Powered Conversational Application**
 
----
+An intelligent conversational application focused on creating a simple and engaging AI interaction experience.
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaskeenAbbas47&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaskeenAbbas47&theme=tokyonight" />
-
-</p>
+**Tech:** AI • React Native • API Integration
 
 ---
 
-## 📫 Connect With Me
+### 🌐 Personal Portfolio
 
-<p align="center">
+**Animated UI/UX Portfolio Website**
+
+A modern portfolio showcasing my design work, development projects, skills and experience with interactive animations.
+
+**Tech:** React • Figma • Framer Motion
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=TaskeenAbbas47&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaskeenAbbas47&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Activity
+
+<img src="https://raw.githubusercontent.com/TaskeenAbbas47/TaskeenAbbas47/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Let's Work Together
+
+I'm open to:
+
+**UI/UX Design • Figma Projects • Website Design • Mobile App Design • Freelance Projects**
+
+<br>
 
 <a href="https://github.com/TaskeenAbbas47">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<br><br>
 
----
+### ✨ Design with purpose. Build with passion.
 
-<h3 align="center">🚀 Building. Learning. Improving. 🚀</h3>
+</div>
