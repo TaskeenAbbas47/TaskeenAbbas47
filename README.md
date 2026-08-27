@@ -118,8 +118,6 @@ A modern portfolio showcasing my design work, development projects, skills and e
 ## 📊 GitHub Analytics
 <div align="center">
 
-## 📊 GitHub Analytics
-
 <img src="https://github-readme-stats.vercel.app/api?username=TaskeenAbbas47&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br><br>
