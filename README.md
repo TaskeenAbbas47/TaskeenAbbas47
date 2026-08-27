@@ -131,7 +131,7 @@ A modern portfolio showcasing my design work, development projects, skills and e
 
 ## 🐍 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/TaskeenAbbas47/TaskeenAbbas47/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/TaskeenAbbas47/TaskeenAbbas47/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 
 </div>
