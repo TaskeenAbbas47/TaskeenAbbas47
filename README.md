@@ -122,9 +122,6 @@ A modern portfolio showcasing my design work, development projects, skills and e
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TaskeenAbbas47&hide_border=true&theme=transparent" />
-
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskeenAbbas47&layout=compact&hide_border=true&theme=transparent" />
 
